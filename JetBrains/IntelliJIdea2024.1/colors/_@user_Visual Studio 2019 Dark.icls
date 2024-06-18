@@ -1,0 +1,9 @@
+<scheme name="_@user_Visual Studio 2019 Dark" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.1.3.0.0</property>
+    <property name="originalScheme">Visual Studio 2019 Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.gmike.visual-studio-2019-dark</property>
+  </metaInfo>
+</scheme>

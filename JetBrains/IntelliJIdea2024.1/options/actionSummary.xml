@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="19" l="1718568335194" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1718565170664" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1718565064703" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1718568336548" />
+    </e>
+    <e n="HideActiveWindow">
+      <i c="2" l="1718568335489" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1718707021664" />
+    </e>
+    <e n="ShowSettings">
+      <i c="14" l="1718568256457" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1718564927145" />
+    </e>
+    <e n="WelcomeScreen.ManageLicense">
+      <i c="1" l="1718564917221" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="1" l="1718567729441" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1718564966515" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1718564914202" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="1" l="1718565084213" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="2" l="1718564872355" />
+    </e>
+  </component>
+</application>

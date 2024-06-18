@@ -1,0 +1,23 @@
+# Check if rfkill command is available
+if ! command -v rfkill &> /dev/null; then
+    echo "Error: 'rfkill' command not found."
+    exit 1
+fi
+
+status=$(rfkill list bluetooth | awk '/Soft/{print $3; exit}')
+
+# Check the status and take appropriate actions
+case $status in
+    "no")
+        rfkill block bluetooth
+        notify-send "Bluetooth disabled"
+        ;;
+    "yes")
+        rfkill unblock bluetooth
+        notify-send "Bluetooth enabled"
+        ;;
+    *)
+        echo "Unknown status: $status"
+        exit 1
+        ;;
+esac
