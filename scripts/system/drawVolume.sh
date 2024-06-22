@@ -8,18 +8,18 @@ function sendNotification() {
 case $1 in
 up)
 	pamixer -u
-	pamixer -i 5 --allow-boost
+	pamixer -i 5 # --allow-boost # to go after 100%
 	sendNotification $1
 	;;
 down)
 	pamixer -u
-	pamixer -d 5 --allow-boost
+	pamixer -d 5
 	sendNotification $1
 	;;
 mute)
 	pamixer -t
 	if $(pamixer --get-mute); then
-		dunstify -i volume-mute -a "pamixer" -t 2000 -r 9999 -u low "Muted"
+		dunstify -i volume-mute -a "pamixer" -t 2000 -r 9999 -u low "Volume is muted"
 	else
 		sendNotification up
 	fi

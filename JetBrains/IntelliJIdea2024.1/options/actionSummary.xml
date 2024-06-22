@@ -13,10 +13,10 @@
       <i c="1" l="1718568336548" />
     </e>
     <e n="HideActiveWindow">
-      <i c="2" l="1718568335489" />
+      <i c="3" l="1718838841706" />
     </e>
     <e n="Run">
-      <i c="4" l="1718707021664" />
+      <i c="6" l="1718838836711" />
     </e>
     <e n="ShowSettings">
       <i c="14" l="1718568256457" />
@@ -26,6 +26,9 @@
     </e>
     <e n="WelcomeScreen.ManageLicense">
       <i c="1" l="1718564917221" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1718838815470" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
       <i c="1" l="1718567729441" />

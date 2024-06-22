@@ -4,27 +4,25 @@
     "height": 42,
     "modules-left": [
       "hyprland/workspaces",
-      "backlight",
-      "bluetooth",
-      "network"
+      "memory",
+      "disk",
+      "cpu",
+      "temperature"
     ],
     "fixed-center": true,
     "modules-center": [
-      "memory",
-      "custom/updates",
+      "bluetooth",
       "clock",
-      "custom/notifications",
-      "disk"
+      "network"
     ],
     "modules-right": [
-      "tray",
-      "custom/player",
+      "hyprland/language",
+      "backlight",
       "pulseaudio",
-      "pulseaudio#microphone",
       "battery"
     ],
-    "hyprland/window": {
-      "format": "{}"
+    "hyprland/language": {
+      "format": "{short}"
     },
     "hyprland/workspaces": {
       "sort-by-name": true,
@@ -34,13 +32,9 @@
         "*": 0
       }
     },
-    "tray": {
-      "icon-size": 12,
-      "spacing": 2
-    },
     "clock": {
-      "interval": 60,
-      "format": " {:%A, %B %d [%H:%M]}",
+      "interval": 1,
+      "format": "  {:%B %d [%H:%M:%S]}",
       "tooltip-format": "<tt><small>{calendar}</small></tt>",
       "calendar": {
         "mode": "year",
@@ -57,9 +51,9 @@
       "device": "intel_backlight",
       "format": "{icon} {percent}%",
       "format-icons": [
-        "",
-        "",
-        ""
+        "",
+        "",
+        ""
       ]
     },
     "battery": {
@@ -73,17 +67,16 @@
       "format-charging": " {capacity}%",
       "format-plugged": " {capacity}%",
       "format-icons": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     },
     "pulseaudio": {
@@ -118,7 +111,8 @@
     "network": {
       "format-disconnected": "Disconnected",
       "format-wifi": "  {essid}",
-      "tooltip-format": " {signalStrength}",
+      "format-ethernet": " Ethernet",
+      "tooltip-format": "IP: {ipaddr}\n⇡ {bandwidthUpBits}\n⇣ {bandwidthDownBits}",
       "on-click": "bash ~/.config/scripts/system/wifimenu"
     },
     "bluetooth": {
