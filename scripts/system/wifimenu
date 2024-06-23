@@ -11,28 +11,28 @@ chosen_network=$(echo -e "$toggle\n$wifi_list" | uniq -u | rofi -dmenu -i -selec
 chosen_id=$(echo "${chosen_network:3}" | xargs)
 
 if [ "$chosen_network" = "" ]; then
-	notify-send "$chosen_network"
+	notify-send -r 9996 "$chosen_network"
 	exit
 elif [ "$chosen_network" = "  Enable Wi-Fi" ]; then
 	nmcli radio wifi on
-	notify-send "Wi-Fi enabled"
+	notify-send -r 9996 "Wi-Fi enabled"
 elif [ "$chosen_network" = "󰖪  Disable Wi-Fi" ]; then
 	nmcli radio wifi off
-	notify-send "Wi-Fi disabled"
+	notify-send -r 9996 "Wi-Fi disabled"
 else
 	success_message=" Successfully connected to \"$chosen_id\""
 	saved_connections=$(nmcli -g NAME connection)
 	if [[ $(echo "$saved_connections") = "$chosen_id" ]]; then
-		nmcli connection up id "$chosen_id" | grep "successfully" && notify-send "$success_message"
+		nmcli connection up id "$chosen_id" | grep "successfully" && notify-send -r 9996 "$success_message"
 	else
 		if [[ "$chosen_network" =~ "" ]]; then
 			wifi_password=$(rofi -dmenu -l 0 -p "Password: ")
 		fi
 		state=$(nmcli device wifi connect "$chosen_id" password "$wifi_password")
 		if [[ "$state" =~ "successfully" ]]; then
-			notify-send "$success_message"
+			notify-send -r 9996 "$success_message"
 		else
-			notify-send "Error durind connecting to \"$chosen_id\""
+			notify-send -r 9996 "Error durind connecting to \"$chosen_id\""
 			nmcli connection delete id "$chosen_id"
 		fi
 	fi

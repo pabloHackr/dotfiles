@@ -11,30 +11,33 @@
     ],
     "fixed-center": true,
     "modules-center": [
-      "bluetooth",
-      "clock",
-      "network"
+      "clock"
     ],
     "modules-right": [
+      "network",
+      "bluetooth",
       "hyprland/language",
       "backlight",
       "pulseaudio",
       "battery"
     ],
+    "temperature": {
+      "critical-threshold": 70,
+      "format": "{icon} {temperatureC}°C",
+      "format-icons": ["", "", ""],
+      "tooltip": false
+    },
+    "cpu": {
+      "format": " {usage}%",
+      "tooltip": false,
+      "interval": 1
+    },
     "hyprland/language": {
       "format": "{short}"
     },
-    "hyprland/workspaces": {
-      "sort-by-name": true,
-      "format": "{id}",
-      "show-special": true,
-      "persistent-workspaces": {
-        "*": 0
-      }
-    },
     "clock": {
       "interval": 1,
-      "format": "  {:%B %d [%H:%M:%S]}",
+      "format": "{:%d %B ~ %H:%M:%S}",
       "tooltip-format": "<tt><small>{calendar}</small></tt>",
       "calendar": {
         "mode": "year",
@@ -42,8 +45,8 @@
         "format": {
           "months": "<span color='#e6e1cf'><b>{}</b></span>",
           "days": "<span color='#cad3f5'><b>{}</b></span>",
-          "weekdays": "<span color='#ff3333'><b>{}</b></span>",
-          "today": "<span color='#f5a97f'><b><u>{}</u></b></span>"
+          "weekdays": "<span color='#a6e3a1'><b>{}</b></span>",
+          "today": "<span color='#ff3333'><b><u>{}</u></b></span>"
         }
       }
     },
@@ -51,21 +54,27 @@
       "device": "intel_backlight",
       "format": "{icon} {percent}%",
       "format-icons": [
-        "",
-        "",
-        ""
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     },
     "battery": {
       "interval": 5,
       "states": {
         "good": 100,
-        "warning": 30,
-        "critical": 20
+        "warning": 20,
+        "critical": 10
       },
       "format": "{icon} {capacity}%",
       "format-charging": " {capacity}%",
-      "format-plugged": " {capacity}%",
+      "format-plugged": "󰚥 {capacity}%",
       "format-icons": [
         "",
         "",
@@ -109,9 +118,10 @@
       "on-scroll-down": "wpctl set-volume @DEFAULT_SOURCE@ 5%-"
     },
     "network": {
-      "format-disconnected": "Disconnected",
+      "format": "{}",
       "format-wifi": "  {essid}",
       "format-ethernet": " Ethernet",
+      "format-disconnected": "  off",
       "tooltip-format": "IP: {ipaddr}\n⇡ {bandwidthUpBits}\n⇣ {bandwidthDownBits}",
       "on-click": "bash ~/.config/scripts/system/wifimenu"
     },
@@ -120,7 +130,7 @@
       "format-disabled": " {status}",
       "format-connected": " {num_connections}",
       "tooltip-format": "{device_alias}",
-      "format-connected-battery": " {device_alias} {device_battery_percentage}%",
+      "format-connected-battery": " {device_alias} {device_battery_percentage}%",
       "tooltip-format-enumerate-connected": "{device_alias}",
       "on-click": "bash ~/.config/scripts/system/lockBluetooth"
     },
@@ -131,7 +141,7 @@
     },
     "disk": {
       "interval": 600,
-      "format": " {percentage_used}%",
+      "format": "🖴 {percentage_used}%",
       "tooltip-format": "{used} used out of {total} on {path} "
     },
     "custom/updates": {

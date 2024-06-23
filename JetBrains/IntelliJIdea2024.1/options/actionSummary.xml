@@ -15,11 +15,20 @@
     <e n="HideActiveWindow">
       <i c="3" l="1718838841706" />
     </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1719167652763" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1719167650489" />
+    </e>
     <e n="Run">
-      <i c="6" l="1718838836711" />
+      <i c="8" l="1719167493033" />
     </e>
     <e n="ShowSettings">
-      <i c="14" l="1718568256457" />
+      <i c="15" l="1719167616884" />
+    </e>
+    <e n="TogglePresentationMode">
+      <i c="2" l="1719167577655" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
       <i c="1" l="1718564927145" />
@@ -35,6 +44,9 @@
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="1" l="1718564966515" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1719167644833" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
       <i c="1" l="1718564914202" />

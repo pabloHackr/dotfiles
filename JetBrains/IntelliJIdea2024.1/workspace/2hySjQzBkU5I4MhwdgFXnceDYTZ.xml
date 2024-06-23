@@ -22,8 +22,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 11,
-      "lastUsed": 1718838820389
+      "usageCount": 13,
+      "lastUsed": 1719167490163
     }
   }
 }]]></component>
@@ -41,7 +41,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="11" lastUsage="1718838820392" />
+      <summary usageCount="13" lastUsage="1719167490166" />
     </language>
   </component>
   <component name="ProjectView">
@@ -68,26 +68,37 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2026000" />
+    <option name="totallyTimeSpent" value="2226000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16269842" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16272345" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32978725" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32982984" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.32989419" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.32978725" left="0.16269842" right="0.32989419" />
+      <unified_weights bottom="0.32982984" left="0.16272345" right="0.32989419" />
     </layoutV2>
     <recentWindows>
       <value>Run</value>
@@ -96,26 +107,26 @@
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1808" height="283" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1718838858818">
+    <state width="1820" height="287" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1719167499203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1808" height="283" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718838858818" />
-    <state width="1808" height="283" key="GridCell.Tab.0.center.ideScale=110" timestamp="1718838858818">
+    <state width="1820" height="287" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719167499203" />
+    <state width="1820" height="287" key="GridCell.Tab.0.center.ideScale=110" timestamp="1719167499203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1808" height="283" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718838858818" />
-    <state width="1808" height="283" key="GridCell.Tab.0.left.ideScale=110" timestamp="1718838858818">
+    <state width="1820" height="287" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719167499203" />
+    <state width="1820" height="287" key="GridCell.Tab.0.left.ideScale=110" timestamp="1719167499203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1808" height="283" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718838858818" />
-    <state width="1808" height="283" key="GridCell.Tab.0.right.ideScale=110" timestamp="1718838858818">
+    <state width="1820" height="287" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719167499203" />
+    <state width="1820" height="287" key="GridCell.Tab.0.right.ideScale=110" timestamp="1719167499203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1808" height="283" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718838858818" />
-    <state x="480" y="258" width="1164" height="729" key="SettingsEditor.ideScale=110" timestamp="1718568324691">
+    <state width="1820" height="287" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719167499203" />
+    <state x="480" y="258" width="1164" height="729" key="SettingsEditor.ideScale=110" timestamp="1719167640980">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="480" y="258" width="1164" height="729" key="SettingsEditor.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1718568324691" />
+    <state x="480" y="258" width="1164" height="729" key="SettingsEditor.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719167640980" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
