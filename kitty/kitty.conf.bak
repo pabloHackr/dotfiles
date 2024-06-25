@@ -2,7 +2,7 @@
 font_family Cascadia
 italic_font auto
 bold_italic_font auto
-font_size 16.0
+font_size 10.0
 
 tab_bar_style		powerline
 tab_powerline_style	slanted
@@ -20,7 +20,7 @@ open_url_with chromium
 # cursor white
 
 term xterm-256color
-background_opacity .80
+background_opacity .60
 # color0  #000000
 # color8  #44475a
 # color1  #d55959
@@ -40,6 +40,6 @@ background_opacity .80
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Mocha
+# Default
 include current-theme.conf
 # END_KITTY_THEME

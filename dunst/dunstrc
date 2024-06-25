@@ -100,10 +100,10 @@
 
     # Defines width in pixels of frame around the notification window.
     # Set to 0 to disable.
-    frame_width = 1
+    frame_width = 2
 
     # Defines color of the frame around the notification window.
-    background = "#14141ef2"
+    background = "#1b2230b3"
     frame_color = "#b3bdf0"
 
     # Size of gap to display between notifications - requires a compositor.
@@ -137,7 +137,7 @@
 
     ### Text ###
 
-    font = JetBrainsMono Nerd Font Bold 8
+    font = JetBrainsMono Nerd Font Bold 12
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.

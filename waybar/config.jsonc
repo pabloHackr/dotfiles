@@ -1,7 +1,7 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 42,
+    "height": 50,
     "modules-left": [
       "hyprland/workspaces",
       "memory",
@@ -127,7 +127,7 @@
     },
     "bluetooth": {
       "format": " {status}",
-      "format-disabled": " {status}",
+      "format-disabled": " off",
       "format-connected": " {num_connections}",
       "tooltip-format": "{device_alias}",
       "format-connected-battery": " {device_alias} {device_battery_percentage}%",
