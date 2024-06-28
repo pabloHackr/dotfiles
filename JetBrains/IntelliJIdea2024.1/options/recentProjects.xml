@@ -4,23 +4,55 @@
       <map>
         <entry key="$USER_HOME$/Templates/untitled">
           <value>
-            <RecentProjectMetaInfo frameTitle="untitled – Main.java" opened="true" projectWorkspaceId="2hySjQzBkU5I4MhwdgFXnceDYTZ">
-              <option name="activationTimestamp" value="1719324789332" />
+            <RecentProjectMetaInfo frameTitle="untitled – Main.java" projectWorkspaceId="2hySjQzBkU5I4MhwdgFXnceDYTZ">
+              <option name="activationTimestamp" value="1719521862366" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-241.17890.1" />
               <option name="buildTimestamp" value="1717471500000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="7" y="57" width="1906" height="1016" />
+              <frame x="12" y="62" width="1896" height="1006" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1718838820560" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/trainingGym/WalletWatcher">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WalletWatcher – APIService.java" projectWorkspaceId="2iTkH1jF9PzDDWyuYAi65XRckAe">
+              <option name="activationTimestamp" value="1719573720677" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.17890.1" />
+              <option name="buildTimestamp" value="1717471500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="12" y="62" width="1896" height="1006" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1719521862746" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/trainingGym/cources/java/Introduction">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Introduction – Main.java" opened="true" projectWorkspaceId="2iVRYfZuhbJAV3JEP9AtxNJhqPC">
+              <option name="activationTimestamp" value="1719577380620" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.17890.1" />
+              <option name="buildTimestamp" value="1717471500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="12" y="62" width="1896" height="1006" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1719573807814" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Templates/untitled" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Templates" />
+    <option name="lastOpenedProject" value="$USER_HOME$/trainingGym/cources/java/Introduction" />
+    <option name="lastProjectLocation" value="$USER_HOME$/trainingGym/cources/java" />
   </component>
 </application>

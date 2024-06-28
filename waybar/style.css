@@ -20,6 +20,7 @@ window#waybar.hidden {
 }
 
 tooltip {
+    background-color: rgba(27, 34, 48, 0.9);
     border-radius: 10px;
     border: 1.8px solid #b3bdf0;
     padding-right: 10px;
@@ -32,7 +33,7 @@ tooltip {
     background: rgba(27, 34, 48, 0.7);
     padding: 1px 1px;
     border: 1.8px solid #b3bdf0;
-    margin-left: 5px;
+    margin-left: 10px;
 
     opacity: 1.0;
     margin-top: 5px;
@@ -50,7 +51,7 @@ tooltip {
     opacity: 1;
 }
 
-#workspaces button:focus, button:hover {
+#workspaces button:focus, #workspaces button:hover {
     background: none;
     border: none;
 }
@@ -64,7 +65,7 @@ tooltip {
 
 #workspaces button.urgent {
     background-color: #d5598b;
-    color: #b3bdf0;
+    color: white;
 }
 
 #memory,
@@ -158,7 +159,7 @@ tooltip {
 #battery {
     border: 1.8px solid #b3bdf0;
     border-radius: 10px;
-    margin-right: 5px;
+    margin-right: 10px;
     margin-left: 7px;
 }
 

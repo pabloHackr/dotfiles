@@ -14,8 +14,8 @@ $character
 
 # Replace the '❯' symbol in the prompt with '➜'
 [character] # The name of the module we are configuring is 'character'
-success_symbol = '[ ❱](104)[❯](blue)' # The 'success_symbol' segment is being set to '➜' with the color 'bold green'
-error_symbol = '[ ❱](104)[❯](red)'
+success_symbol = '[ ❱❱](104)[❱](blue)' # The 'success_symbol' segment is being set to '➜' with the color 'bold green'
+error_symbol = '[ ❱❱](104)[❱](red)'
 
 # ---
 
@@ -29,7 +29,7 @@ disabled = false
 [username]
 style_user = 'bold 104'
 style_root = 'black bold'
-format = ' [$user~]($style)'
+format = ' [\[$user~]($style)'
 disabled = false
 show_always = true
 
@@ -45,14 +45,14 @@ truncation_length = 3
 truncation_symbol = '…/'
 home_symbol = '~'
 read_only_style = ' bold 140'
-read_only = '  '
+read_only = ' '
 
-format = '[$path](bold 140)[$read_only]($read_only_style) '
+format = '[$path](bold 140)[$read_only\]]($read_only_style) '
 
 # Shows current git branch
 [git_branch]
 symbol = ''
-format = '[\[$symbol $branch\]]($style) '
+format = '[\($symbol $branch\)]($style) '
 truncation_length = 15
 truncation_symbol = '…/'
 style = 'bold 072'

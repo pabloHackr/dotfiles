@@ -11,8 +11,8 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="264">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 15,
-      "lastUsed": 1719324780396
+      "usageCount": 18,
+      "lastUsed": 1719501319946
     }
   }
 }]]></component>
@@ -41,7 +41,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="15" lastUsage="1719324780398" />
+      <summary usageCount="18" lastUsage="1719501319949" />
     </language>
   </component>
   <component name="ProjectView">
@@ -68,7 +68,7 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2240000" />
+    <option name="totallyTimeSpent" value="10368000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -76,7 +76,7 @@
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16290662" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16271096" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -92,13 +92,14 @@
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="bottom" id="Build" order="6" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.32989419" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.32982984" left="0.16290662" right="0.32989419" />
+      <unified_weights bottom="0.32982984" left="0.16271096" right="0.32989419" />
     </layoutV2>
     <recentWindows>
       <value>Run</value>
@@ -107,6 +108,10 @@
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state x="743" y="323" width="424" height="454" key="FileChooserDialogImpl.ideScale=110" timestamp="1719521857020">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="323" width="424" height="454" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719521857020" />
     <state width="1820" height="287" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1719167499203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -131,8 +136,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="264">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>

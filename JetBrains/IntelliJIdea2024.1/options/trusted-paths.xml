@@ -3,7 +3,16 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/Templates/untitled" value="true" />
+        <entry key="$USER_HOME$/trainingGym/WalletWatcher" value="true" />
+        <entry key="$USER_HOME$/trainingGym/cources/java/Introduction" value="true" />
       </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/trainingGym" />
+      </list>
     </option>
   </component>
 </application>
