@@ -46,7 +46,7 @@
           "months": "<span color='#e6e1cf'><b>{}</b></span>",
           "days": "<span color='#cad3f5'><b>{}</b></span>",
           "weekdays": "<span color='#a6e3a1'><b>{}</b></span>",
-          "today": "<span color='#ff3333'><b><u>{}</u></b></span>"
+          "today": "<span color='#d5598b'><b><u>{}</u></b></span>"
         }
       }
     },
@@ -121,7 +121,8 @@
       "format": "{}",
       "format-wifi": "  {essid}",
       "format-ethernet": " Ethernet",
-      "format-disconnected": "  off",
+      "format-disabled": "  off",
+      "format-disconnected": "  disconnected",
       "tooltip-format": "IP: {ipaddr}\n⇡ {bandwidthUpBits}\n⇣ {bandwidthDownBits}",
       "on-click": "bash ~/.config/scripts/system/wifimenu"
     },
