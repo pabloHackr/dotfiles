@@ -7,40 +7,47 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="1rbeicqeo2zq1">
-      <file>
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="63">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/controllers/meeting/MeetingController.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="120">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf ideFingerprint="1rbeicqeo2zq1" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
-  <component name="FileTypeUsageLocalSummary"><![CDATA[{
-  "data": {
-    "JAVA": {
-      "usageCount": 2,
-      "lastUsed": 1719521886398
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 6,
+      &quot;lastUsed&quot;: 1720080006468
+    },
+    &quot;HTML&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1720081009772
+    },
+    &quot;CSS&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1720081358477
+    },
+    &quot;JavaScript&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1720081517285
     }
   }
-}]]></component>
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>topFiveCMCCryptoURL</find>
+      <find>margin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/WalletWatcher/services</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/static/js/meetingPage.js" />
       <option value="$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java" />
     </changedPaths>
   </component>
@@ -52,8 +59,17 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1720081358477" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1720081009772" />
+    </language>
     <language id="JAVA">
-      <summary usageCount="2" lastUsage="1719521886398" />
+      <summary usageCount="6" lastUsage="1720080006469" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1720081517285" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -72,51 +88,74 @@
           <expand>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java/com/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java/com/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java/com/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java/com/WalletWatcher/controllers/meeting}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java/com/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java/com/WalletWatcher/controllers/meeting}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java/com/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/elpablo/trainingGym/WalletWatcher/src/main/java/com/WalletWatcher/services}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java/com/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/java/com/WalletWatcher/services}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WalletWatcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/trainingGym/projects/WalletWatcher/src/main/resources/templates/views/meetingPage}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,95 +170,140 @@
     </history>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1903000" />
+    <option name="totallyTimeSpent" value="5975000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389239" />
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18486288" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33050847" />
-      <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.22117296" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.33050847" left="0.22389239" />
+      <unified_weights bottom="0.22117296" left="0.18486288" />
     </layoutV2>
     <recentWindows>
-      <value>Run</value>
       <value>Project</value>
+      <value>Run</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="293" key="#Web_Browsers_and_Preview" timestamp="1720081054186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="293" key="#Web_Browsers_and_Preview/0.0.1920.1080@0.0.1920.1080" timestamp="1720081054186" />
+    <state x="747" y="338" key="FileChooserDialogImpl" timestamp="1720081033508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state x="748" y="338" key="FileChooserDialogImpl.ideScale=110" timestamp="1719573716639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="748" y="338" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573716639" />
+    <state x="747" y="338" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1720081033508" />
+    <state width="1814" height="180" key="GridCell.Tab.0.bottom" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.0.center" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.0.center.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.0.left" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.0.left.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.0.right" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.0.right.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.1.bottom" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.1.bottom.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.1.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.1.center" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.1.center.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.1.center.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.1.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.1.left" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.1.left.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.1.left.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.1.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state width="1814" height="180" key="GridCell.Tab.1.right" timestamp="1720094803450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state width="1802" height="289" key="GridCell.Tab.1.right.ideScale=110" timestamp="1719573720674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1802" height="289" key="GridCell.Tab.1.right.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573720674" />
     <state width="1802" height="289" key="GridCell.Tab.1.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719522479331" />
+    <state width="1814" height="180" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1720094803450" />
+    <state x="479" y="200" key="SettingsEditor" timestamp="1720077302281">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="479" y="200" key="SettingsEditor.ideScale=110" timestamp="1720077219731">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="479" y="200" key="SettingsEditor.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1720077219731" />
+    <state x="479" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1720077302281" />
+    <state x="853" y="240" width="702" height="840" key="find.popup" timestamp="1720077334116">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="853" y="240" width="702" height="840" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1720077334116" />
+    <state x="560" y="265" key="new project wizard" timestamp="1720094733527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="265" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1720094733527" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/controllers/meeting/MeetingController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/controllers/meeting/MeetingController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/meetingPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/views/meetingPage/meetingPageDesktop.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/styles/meetingDesktopStyle.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java" />
   </component>
 </project>

@@ -17,8 +17,7 @@
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value="Cascadia Code" />
     <option name="fontSize" value="14.0" />
-    <option name="ideScale" value="1.1" />
-    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="presentationModeIdeScale" value="1.5" />
     <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
@@ -29,7 +28,7 @@
     "NewProjectWizard.generateOnboardingTips": "true",
     "RunOnceActivity.java.code.vision.default.position.was.set": "true",
     "RunOnceActivity.llm.installer.activate.toolwindow": "true",
-    "SettingsSearchHistory": "shortcut\nfont",
+    "SettingsSearchHistory": "size\nshortcut\nfont",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
@@ -55,6 +54,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/elpablo/trainingGym/projects/WalletWatcher",
       "/home/elpablo/trainingGym/cources/java",
       "/home/elpablo/trainingGym/WalletWatcher",
       "/home/elpablo/Templates"

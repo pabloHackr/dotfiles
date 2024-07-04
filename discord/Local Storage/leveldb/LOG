@@ -1,0 +1,16 @@
+2024/07/03-21:24:47.603 eb2 Reusing MANIFEST /home/elpablo/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/03-21:24:47.608 eb2 Recovering log #16
+2024/07/03-21:24:47.608 eb2 Reusing old log /home/elpablo/.config/discord/Local Storage/leveldb/000016.log 
+2024/07/03-21:56:44.607 eb1 Level-0 table #20: started
+2024/07/03-21:56:44.633 eb1 Level-0 table #20: 3153831 bytes OK
+2024/07/03-21:56:44.637 eb1 Delete type=0 #16
+2024/07/03-21:56:44.637 eb1 Compacting 4@0 + 1@1 files
+2024/07/03-21:56:44.650 eb1 Generated table #21@0: 11 keys, 2375800 bytes
+2024/07/03-21:56:44.662 eb1 Generated table #22@0: 35 keys, 781641 bytes
+2024/07/03-21:56:44.662 eb1 Compacted 4@0 + 1@1 files => 3157441 bytes
+2024/07/03-21:56:44.664 eb1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/07/03-21:56:44.664 eb1 Delete type=2 #8
+2024/07/03-21:56:44.664 eb1 Delete type=2 #11
+2024/07/03-21:56:44.664 eb1 Delete type=2 #14
+2024/07/03-21:56:44.664 eb1 Delete type=2 #20
+2024/07/03-21:56:44.664 eb1 Delete type=2 #17
