@@ -34,8 +34,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 29,
-      "lastUsed": 1720100353866
+      "usageCount": 37,
+      "lastUsed": 1720173488926
     }
   }
 }]]></component>
@@ -54,7 +54,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="29" lastUsage="1720100353866" />
+      <summary usageCount="37" lastUsage="1720173488926" />
     </language>
   </component>
   <component name="ProjectView">
@@ -87,11 +87,11 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24644000" />
+    <option name="totallyTimeSpent" value="25944000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118490964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09192349" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -107,7 +107,7 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Hierarchy" order="5" weight="0.32990506" />
-      <unified_weights bottom="0.32952285" left="0.118490964" right="0.32990506" />
+      <unified_weights bottom="0.32952285" left="0.09192349" right="0.32990506" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
@@ -120,10 +120,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="662" y="387" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1719654877785" />
-    <state x="743" y="323" width="424" height="454" key="FileChooserDialogImpl" timestamp="1720094764166">
+    <state x="830" y="416" width="454" height="454" key="FileChooserDialogImpl" timestamp="1720173417150">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="743" y="323" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1720094764166" />
+    <state x="830" y="416" width="454" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1720173417150" />
     <state width="1814" height="289" key="GridCell.Tab.0.bottom" timestamp="1720080006272">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -170,11 +170,7 @@
     <entry file="file://$PROJECT_DIR$/src/littlePackage/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,7 @@
       <i c="1" l="1719574314873" />
     </e>
     <e n="$SelectAll">
-      <i c="2" l="1720081048623" />
+      <i c="3" l="1720174709430" />
     </e>
     <e n="$Undo">
       <i c="55" l="1720099744802" />
@@ -22,13 +22,13 @@
       <i c="5" l="1720077125071" />
     </e>
     <e n="EditorBackSpace">
-      <i c="264" l="1720100007431" />
+      <i c="278" l="1720173666489" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="33" l="1720100003646" />
     </e>
     <e n="EditorCopy">
-      <i c="14" l="1720097606181" />
+      <i c="18" l="1720175300361" />
     </e>
     <e n="EditorCut">
       <i c="3" l="1720081829503" />
@@ -73,7 +73,7 @@
       <i c="3" l="1720099628813" />
     </e>
     <e n="EditorPaste">
-      <i c="24" l="1720098654351" />
+      <i c="28" l="1720174816896" />
     </e>
     <e n="EditorPreviousWord">
       <i c="38" l="1720100006869" />
@@ -106,7 +106,7 @@
       <i c="1" l="1720077125818" />
     </e>
     <e n="ExternalSystem.ProjectRefreshAction">
-      <i c="3" l="1720098953550" />
+      <i c="4" l="1720174376920" />
     </e>
     <e n="FileChooser.NewFolder">
       <i c="2" l="1719573712343" />
@@ -132,6 +132,9 @@
     <e n="InsertInlineCompletionAction">
       <i c="16" l="1720099781070" />
     </e>
+    <e n="Maven.ReimportProject">
+      <i c="1" l="1720175056376" />
+    </e>
     <e n="MethodUp">
       <i c="4" l="1719649803728" />
     </e>
@@ -139,7 +142,7 @@
       <i c="1" l="1719167652763" />
     </e>
     <e n="Move">
-      <i c="1" l="1719654869516" />
+      <i c="2" l="1720174604232" />
     </e>
     <e n="MoveStatementDown">
       <i c="4" l="1719649821820" />
@@ -154,16 +157,19 @@
       <i c="1" l="1719649444132" />
     </e>
     <e n="NewProject">
-      <i c="2" l="1720094731271" />
+      <i c="4" l="1720174811545" />
     </e>
     <e n="OpenFile">
       <i c="3" l="1720094751765" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="1" l="1719167650489" />
+      <i c="5" l="1720175219925" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1720174631792" />
     </e>
     <e n="Run">
-      <i c="32" l="1720100010105" />
+      <i c="37" l="1720175286905" />
     </e>
     <e n="ShowSettings">
       <i c="22" l="1720077239102" />
@@ -184,10 +190,13 @@
       <i c="1" l="1720099850295" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
-      <i c="1" l="1718564927145" />
+      <i c="2" l="1720175128005" />
     </e>
     <e n="WelcomeScreen.ManageLicense">
       <i c="1" l="1718564917221" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1720174335541" />
     </e>
     <e n="WelcomeScreen.RemoveSelected">
       <i c="1" l="1718838815470" />
@@ -199,7 +208,7 @@
       <i c="2" l="1720081389809" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="13" l="1720094878149" />
+      <i c="14" l="1720174692435" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="4" l="1720081083293" />
@@ -217,10 +226,10 @@
       <i c="1" l="1719649951734" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="5" l="1720098946484" />
+      <i c="9" l="1720175230175" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1" l="1720077334113" />
+      <i c="3" l="1720174596255" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1719574504320" />
@@ -229,13 +238,13 @@
       <i c="3" l="1719576879024" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="13" l="1720094725209" />
+      <i c="15" l="1720174804250" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
       <i c="1" l="1718564914202" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.projectActions.ChangeProjectColorAction">
-      <i c="2" l="1719646127625" />
+      <i c="4" l="1720175241669" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1720099856364" />
@@ -244,10 +253,13 @@
       <i c="1" l="1718565084213" />
     </e>
     <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
-      <i c="2" l="1718564872355" />
+      <i c="4" l="1720175137484" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1719573815545" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1720174553331" />
     </e>
   </component>
 </application>

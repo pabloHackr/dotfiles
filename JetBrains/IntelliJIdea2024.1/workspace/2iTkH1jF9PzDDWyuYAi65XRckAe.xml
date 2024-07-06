@@ -7,28 +7,55 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="1rbeicqeo2zq1" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+    <leaf ideFingerprint="1rbeicqeo2zq1" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="273">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
-  <component name="FileTypeUsageLocalSummary">{
-  &quot;data&quot;: {
-    &quot;JAVA&quot;: {
-      &quot;usageCount&quot;: 6,
-      &quot;lastUsed&quot;: 1720080006468
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 8,
+      "lastUsed": 1720174793733
     },
-    &quot;HTML&quot;: {
-      &quot;usageCount&quot;: 1,
-      &quot;lastUsed&quot;: 1720081009772
+    "HTML": {
+      "usageCount": 1,
+      "lastUsed": 1720081009772
     },
-    &quot;CSS&quot;: {
-      &quot;usageCount&quot;: 1,
-      &quot;lastUsed&quot;: 1720081358477
+    "CSS": {
+      "usageCount": 1,
+      "lastUsed": 1720081358477
     },
-    &quot;JavaScript&quot;: {
-      &quot;usageCount&quot;: 1,
-      &quot;lastUsed&quot;: 1720081517285
+    "JavaScript": {
+      "usageCount": 1,
+      "lastUsed": 1720081517285
+    },
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1720174793323
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1720174800046
     }
   }
-}</component>
+}]]></component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find />
@@ -66,10 +93,16 @@
       <summary usageCount="1" lastUsage="1720081009772" />
     </language>
     <language id="JAVA">
-      <summary usageCount="6" lastUsage="1720080006469" />
+      <summary usageCount="8" lastUsage="1720174793733" />
     </language>
     <language id="JavaScript">
       <summary usageCount="1" lastUsage="1720081517285" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1720174800046" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1720174793326" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -170,12 +203,12 @@
     </history>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5975000" />
+    <option name="totallyTimeSpent" value="6972000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18486288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22916666" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -190,7 +223,7 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.22117296" left="0.18486288" />
+      <unified_weights bottom="0.22117296" left="0.22916666" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
@@ -202,14 +235,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="293" key="#Web_Browsers_and_Preview/0.0.1920.1080@0.0.1920.1080" timestamp="1720081054186" />
-    <state x="747" y="338" key="FileChooserDialogImpl" timestamp="1720081033508">
+    <state x="747" y="338" key="FileChooserDialogImpl" timestamp="1720173591345">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="748" y="338" key="FileChooserDialogImpl.ideScale=110" timestamp="1719573716639">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="748" y="338" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1719573716639" />
-    <state x="747" y="338" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1720081033508" />
+    <state x="747" y="338" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1720173591345" />
     <state width="1814" height="180" key="GridCell.Tab.0.bottom" timestamp="1720094803450">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -294,16 +327,32 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="853" y="240" width="702" height="840" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1720077334116" />
-    <state x="560" y="265" key="new project wizard" timestamp="1720094733527">
+    <state x="599" y="253" width="790" height="612" key="new project wizard" timestamp="1720174950544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="265" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1720094733527" />
+    <state x="599" y="253" width="790" height="612" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1720174950543" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/controllers/meeting/MeetingController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/meetingPage.js" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/views/meetingPage/meetingPageDesktop.html" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/styles/meetingDesktopStyle.css" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/WalletWatcher/services/APIService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whitelist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

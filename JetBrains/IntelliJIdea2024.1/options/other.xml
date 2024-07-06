@@ -22,7 +22,7 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-241.17890.1",
     "MarketplacePluginsSearchHistory": "/tag:Theme\nvisual studio\nvisual stu\nvisual s\nvisual",
     "NewProjectWizard.generateOnboardingTips": "true",
@@ -32,6 +32,7 @@
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "defaultJdkConfigured": "true",
     "evlsprt3.241": "7",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "241.17890.1",
@@ -42,18 +43,20 @@
     "ide.memory.adjusted": "true",
     "installed.kotlin.plugin.version": "241.17890.1-IJ",
     "jdk.selected.JAVA_MODULE": "openjdk-22",
-    "last_opened_file_path": "/home/elpablo/trainingGym/cources/java",
+    "last_opened_file_path": "/home/elpablo/trainingGym/projects/GroupQueue",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",
     "onboarding.generation.number": "1",
     "previousColorScheme": "_@user_Visual Studio 2019 Dark",
-    "project.wizard.group": "NPW.simple-project.Java",
+    "project.wizard.group": "SpringInitializr",
     "registry.to.advanced.settings.migration.build": "IU-241.17890.1",
     "tab_selection_count": "5",
     "ts.lib.d.ts.version": "5.4.3"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/elpablo/trainingGym/projects/GroupQueue",
+      "/home/elpablo/trainingGym/projects",
       "/home/elpablo/trainingGym/projects/WalletWatcher",
       "/home/elpablo/trainingGym/cources/java",
       "/home/elpablo/trainingGym/WalletWatcher",

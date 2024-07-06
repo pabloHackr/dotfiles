@@ -11,7 +11,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="264">
+            <state relative-caret-position="231">
               <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
@@ -22,8 +22,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 18,
-      "lastUsed": 1719501319946
+      "usageCount": 19,
+      "lastUsed": 1720173426422
     }
   }
 }]]></component>
@@ -41,7 +41,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="18" lastUsage="1719501319949" />
+      <summary usageCount="19" lastUsage="1720173426422" />
     </language>
   </component>
   <component name="ProjectView">
@@ -68,7 +68,7 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10368000" />
+    <option name="totallyTimeSpent" value="10378000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -136,8 +136,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="231">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>
