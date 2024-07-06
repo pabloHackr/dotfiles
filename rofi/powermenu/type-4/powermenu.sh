@@ -17,31 +17,23 @@ theme='style'
 uptime="`uptime -p | sed -e 's/up //g'`"
 
 # Options
-shutdown=''
-reboot=''
-lock=''
-suspend=''
-logout=''
+shutdown=''
+reboot=''
+lock=''
+suspend=''
+logout=''
 
 # Rofi CMD
 rofi_cmd() {
 	rofi -dmenu \
-		-p "See ya, $USER" \
+		-p "" \
 		-mesg "Uptime: $uptime" \
 		-theme ${dir}/${theme}.rasi
 }
 
-# Confirmation CMD
-confirm_cmd() {
-	rofi -dmenu \
-		-p 'Confirmation' \
-		-mesg 'Are you sure?' \
-		-theme ${dir}/shared/confirm.rasi
-}
-
 # Pass variables to rofi dmenu
 run_rofi() {
-	echo -e "$lock\n$suspend\n$logout\n$reboot\n$shutdown" | rofi_cmd
+	echo -e "$shutdown\n$reboot\n$suspend\n$logout\n$lock" | rofi_cmd
 }
 
 # Actions

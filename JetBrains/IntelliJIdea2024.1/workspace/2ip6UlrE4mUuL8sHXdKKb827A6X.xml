@@ -7,7 +7,7 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="1rbeicqeo2zq1">
+    <leaf ideFingerprint="1rbeicqeo2zq1" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/groupqueue/GroupQueueApplication.java">
           <provider editor-type-id="text-editor" selected="true">
@@ -24,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider editor-type-id="text-editor" selected="true">
             <state>
-              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -34,12 +34,12 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 1,
-      "lastUsed": 1720175209313
+      "usageCount": 3,
+      "lastUsed": 1720290012982
     },
     "Properties": {
-      "usageCount": 2,
-      "lastUsed": 1720175333626
+      "usageCount": 4,
+      "lastUsed": 1720290012466
     },
     "Markdown": {
       "usageCount": 1,
@@ -56,13 +56,13 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="1" lastUsage="1720175209313" />
+      <summary usageCount="3" lastUsage="1720290012982" />
     </language>
     <language id="Markdown">
       <summary usageCount="1" lastUsage="1720175193389" />
     </language>
     <language id="Properties">
-      <summary usageCount="2" lastUsage="1720175333626" />
+      <summary usageCount="4" lastUsage="1720290012477" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -128,7 +128,7 @@
     </history>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1414000" />
+    <option name="totallyTimeSpent" value="3011000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -140,8 +140,8 @@
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32952285" />
-      <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
@@ -171,7 +171,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>

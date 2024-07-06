@@ -1,6 +1,0 @@
-2024/07/02-23:55:26.815 793 Reusing MANIFEST /home/elpablo/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/07/02-23:55:26.821 793 Recovering log #13
-2024/07/02-23:55:26.821 793 Reusing old log /home/elpablo/.config/discord/Local Storage/leveldb/000013.log 
-2024/07/02-23:58:07.790 792 Level-0 table #17: started
-2024/07/02-23:58:07.810 792 Level-0 table #17: 783582 bytes OK
-2024/07/02-23:58:07.813 792 Delete type=0 #13

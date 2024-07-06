@@ -13,7 +13,7 @@ configuration {
 }
 
 *{
-  bgcolor:                        #070d11bf;
+  bgcolor:                        #070d11d9;
 }
 
 /*****----- Global Properties -----*****/
@@ -30,7 +30,7 @@ configuration {
 
     prompt-font:                 "Montserrat Semibold 32";
     textbox-font:                "Montserrat Semibold 12";
-    element-text-font:           "Montserrat Semibold 48";
+    element-text-font:           "Montserrat Semibold 50";
     
     background-window:		@bgcolor;
     background-normal:           white/10%;
@@ -55,19 +55,12 @@ mainbox {
     spacing:                     var(mainbox-spacing);
     margin:                      var(mainbox-margin);
     background-color:            transparent;
-    children:                    [ "dummy", "inputbar", "listview", "message", "dummy" ];
+    children:                    [ "dummy", "listview", "message", "dummy" ];
 }
 
 /*****----- User -----*****/
 userimage {
     background-color:            transparent;
-}
-
-/*****----- Inputbar -----*****/
-inputbar {
-    enabled:                     true;
-    background-color:            transparent;
-    children:                    [ "dummy", "prompt", "dummy"];
 }
 
 dummy {
@@ -90,7 +83,7 @@ message {
     border-radius:               var(message-border-radius);
     background-color:            var(background-normal);
     text-color:                  #b3bdf0;
-    border: 2px solid;
+    border: 3px solid;
     border-color: #b3bdf0;
 }
 textbox {
@@ -138,7 +131,7 @@ element-text {
     horizontal-align:            0.5;
 }
 element selected.normal {
-    border: 2px solid;
+    border: 3px solid;
     border-color: #b3bdf0;
     background-color:            #232a2d70;
     text-color:                  #b3bdf0;
